@@ -1,4 +1,4 @@
-package io.javabrains.reactiveworkshop;
+package io.java_brains.reactive_workshop.exerciese;
 
 public class Exercise1 {
 
